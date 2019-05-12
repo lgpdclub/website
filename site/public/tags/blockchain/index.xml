@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on LGPD Club</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on LGPD Club</description>
+    <title>blockchain on LGPD Club</title>
+    <link>/tags/blockchain/</link>
+    <description>Recent content in blockchain on LGPD Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,27 +18,6 @@
       
       <guid>/post/saiba-mais/</guid>
       <description>   Serviço / Produto Básico Intermediário Premium     Consultoria Básica em até 30 dias* X X X   Inclusão na Blockchain LGPD Club X X X   Receber Questionamentos do Cidadão no Email cadastrado X X X   Consultoria Especialistas LGPD (não jurídica) em até 20 dias**  X X   Ferramenta de gestão dos questionamentos relacionados a LGPD direcionados a sua Empresa  X X   Follow-up das respostas ao Cidadão  X X   Consultoria Jurídica Especializada em até 15 dias***   X   Acesso ao Painel Analítico de Impressão do Cidadão sobre a gestão LGPD da sua Empresa   X   Preço Gratuito Consulte nossa equipe Consulte nossa Equipe    </description>
-    </item>
-    
-    <item>
-      <title>Sobre Nós</title>
-      <link>/post/sobre-nos/</link>
-      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/sobre-nos/</guid>
-      <description> Teste3
- </description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

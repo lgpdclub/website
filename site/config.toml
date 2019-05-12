@@ -52,7 +52,7 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Funcionamento da Blockchain"
+      name = "Funcionamento da Solução LGPD Club"
       url = "#"
 
 #    [[params.navigation.links]]
@@ -62,7 +62,7 @@ disqusShortname = ""
 #      baseURL = "{{.Site.BaseURL}}"
 
     [[params.navigation.links]]
-      name = "Avalie sua Empresa"
+      name = "A Blockchain LGPD Club"
       url = "#"
 
     [[params.navigation.links]]
@@ -121,7 +121,7 @@ disqusShortname = ""
       title = "Como Funciona a LGPD Club?"
       subtitle = "Conheça mais sobre a nossa solução"
       image = "pic03.jpg"
-      url = "#"
+      url = "post/saiba-mais/index.html"
 
     [[params.tiles.showcase]]
       title = "LGPD"
