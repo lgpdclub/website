@@ -3,9 +3,8 @@ baseURL = ""
 languageCode = "en-us"
 title = "LGPD Club"
 theme = "forty"
-
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
+  
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
@@ -53,7 +52,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Funcionamento da Solução LGPD Club"
-      url = "#"
+      url = "post/saiba-mais/index.html"
 
 #    [[params.navigation.links]]
 #      name = "Blogs"
@@ -63,7 +62,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "A Blockchain LGPD Club"
-      url = "#"
+      url = "blogs/blockchain/index.html"
 
     [[params.navigation.links]]
       name = "Entre em Contato"
@@ -99,8 +98,6 @@ disqusShortname = ""
   # Tiles Section
   [params.tiles]
     enable = true
-    relativeURLs = false
-    baseURL = "../../"
     # Display your showcases here.
     
     [[params.tiles.showcase]]

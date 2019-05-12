@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LGPD Club</title>
+    <title>Categories on LGPD Club</title>
     <link>/categories/</link>
-    <description>Recent content on LGPD Club</description>
+    <description>Recent content in Categories on LGPD Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
@@ -12,25 +12,25 @@
     
     
     <item>
-      <title>Aliquam</title>
-      <link>/blogs/aliquam/</link>
+      <title></title>
+      <link>/categories/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>/blogs/aliquam/</guid>
+      <guid>/categories/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Aliquam</title>
-      <link>/blogs/aliquam/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/blogs/aliquam/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
-    <item>
-      <title>Tempus</title>
+  </channel>
+</rss>mpus</title>
       <link>/blogs/tempus/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
